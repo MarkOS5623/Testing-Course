@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+*.user
+*.suo
+.vs/
+MeetingFlow.Monolith/appsettings.Development.json
+
+## Node
+node_modules/
+dist/
+
+## IDE
+.idea/
+*.swp
+*.swo
